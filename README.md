@@ -4,7 +4,7 @@
 
 ## About Me
 
-I work in strategic finance at GitHub/Microsoft, and I'm on an experimental journey to explore how AI coding agents can transform traditional finance workflows. With no formal coding background, I'm learning how to leverage tools like Claude to tackle complex analytical challenges that typically require extensive manual work.
+I work in strategic finance at GitHub/Microsoft as the lead for GitHub Copilot. With no formal coding background, I'm learning how to use Agents for complex work and to speed up my typical workflows. I also want to be able to set up more complex systems that help me build tools at work and at home; I don't know how much I will use, but I cannot be behind. Secondarily, I also want to understand how users might see and use the products that I support!
 
 ## What I'm Exploring
 
@@ -14,7 +14,6 @@ I'm interested in using AI coding agents for:
 - 🎯 **Decision Analysis** - Creating frameworks to evaluate strategic options and trade-offs
 - 🤖 **Automating Financial Reporting** - Eliminating repetitive boilerplate work and freeing up time for strategic thinking
 - 📈 **Forecast Tool Development** - Building financial models and forecasting tools through natural language interaction
-- 💡 **Finance + AI Experimentation** - Discovering what's possible at the intersection of strategic finance and AI assistance
 
 ## The Journey
 
@@ -27,17 +26,11 @@ This repository serves as my experimental workspace where I'm:
 
 ## Why This Matters
 
-I believe we're at an inflection point where domain expertise + AI agents can compete with or surpass traditional coding skills for many analytical workflows. As someone in strategic finance, I'm testing this hypothesis in real-world scenarios.
+I believe we're at an inflection point where domain expertise + AI agents can compete with or surpass traditional coding skills for many analytical workflows. I'm testing this hypothesis as I go.
 
 ---
 
-*Note: This is an experimental space. I'm learning in public and exploring the boundaries of what's possible when finance professionals leverage AI coding agents.*
-
-## Connect
-
-💼 GitHub/Microsoft Strategic Finance
-🌱 Currently learning: AI-assisted analysis and automation
-⚡ Fun fact: Proving you don't need to be a developer to build powerful analytical tools
+*Note: This is an experimental space. I am only putting this in public because I believe that nobody is watching. A lot of my commits and PRs are going to look incredibly stupid.*
 
 ---
 
