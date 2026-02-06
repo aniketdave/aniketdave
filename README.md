@@ -1,10 +1,12 @@
 # Hi, I'm Aniket Dave 👋
 
-**Strategic Finance Analyst @ GitHub / Microsoft**
+**Strategic Finance @ GitHub**
+- Currently focused on product and business strategy
+- Prior: compute and infrastructure planning and scenario modeling
 
 # About Me
 
-I work in strategic finance at GitHub/Microsoft as the lead for GitHub Copilot. With no formal coding background, I'm learning how to use Agents for complex work and to speed up my typical workflows. I also want to be able to set up more complex systems that help me build tools at work and at home; I don't know how much I will use, but I cannot be behind. Secondarily, I also want to understand how users might see and use the products that I support!
+With no formal coding background, I'm learning how to use Agents for complex work and to speed up my typical workflows. I also want to be able to set up more complex systems that help me build tools at work and at home; I don't know how much I will use, but I cannot be behind. Secondarily, I also want to understand how users might see and use the products that I support!
 
 # What I'm Exploring
 
